@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO
+TODO: proof of concept
 
 ## How to use this image
 
