@@ -46,3 +46,5 @@ RUN gem install r10k
 #RUN pip install ansible==$ANSIBLE_VERSION --install-option="--install-scripts=/usr/bin"
 
 WORKDIR /
+
+VOLUME /var/tmp/puppet_fleet
